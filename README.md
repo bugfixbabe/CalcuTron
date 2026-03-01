@@ -290,4 +290,6 @@ Monica Geller
 
 GitHub Profile: [https://github.com/bugfixbabe]
 
+Linkedin Profile: [-----------------------------]
+
 For more projects and contributions, visit the author's GitHub repository at [https://github.com/bugfixbabe]
