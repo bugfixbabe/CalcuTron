@@ -286,7 +286,7 @@ This project is provided as-is for educational and professional use.
 
 ## Author
 
-Sukaina Seerat
+**Sukaina Seerat**
 
 GitHub Profile: [https://github.com/bugfixbabe]
 
