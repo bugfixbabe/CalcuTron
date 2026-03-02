@@ -286,10 +286,10 @@ This project is provided as-is for educational and professional use.
 
 ## Author
 
-Monica Geller
+Sukaina Seerat
 
 GitHub Profile: [https://github.com/bugfixbabe]
 
-Linkedin Profile: [-----------------------------]
+Linkedin Profile: [Your Linkedin URL]
 
 For more projects and contributions, visit the author's GitHub repository at [https://github.com/bugfixbabe]
